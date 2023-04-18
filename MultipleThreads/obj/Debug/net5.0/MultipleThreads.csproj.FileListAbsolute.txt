@@ -1,0 +1,16 @@
+C:\Users\Настя\source\repos\MultipleThreads\bin\Debug\net5.0\MultipleThreads.exe
+C:\Users\Настя\source\repos\MultipleThreads\bin\Debug\net5.0\MultipleThreads.deps.json
+C:\Users\Настя\source\repos\MultipleThreads\bin\Debug\net5.0\MultipleThreads.runtimeconfig.json
+C:\Users\Настя\source\repos\MultipleThreads\bin\Debug\net5.0\MultipleThreads.runtimeconfig.dev.json
+C:\Users\Настя\source\repos\MultipleThreads\bin\Debug\net5.0\MultipleThreads.dll
+C:\Users\Настя\source\repos\MultipleThreads\bin\Debug\net5.0\ref\MultipleThreads.dll
+C:\Users\Настя\source\repos\MultipleThreads\bin\Debug\net5.0\MultipleThreads.pdb
+C:\Users\Настя\source\repos\MultipleThreads\obj\Debug\net5.0\MultipleThreads.csproj.AssemblyReference.cache
+C:\Users\Настя\source\repos\MultipleThreads\obj\Debug\net5.0\MultipleThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\source\repos\MultipleThreads\obj\Debug\net5.0\MultipleThreads.AssemblyInfoInputs.cache
+C:\Users\Настя\source\repos\MultipleThreads\obj\Debug\net5.0\MultipleThreads.AssemblyInfo.cs
+C:\Users\Настя\source\repos\MultipleThreads\obj\Debug\net5.0\MultipleThreads.csproj.CoreCompileInputs.cache
+C:\Users\Настя\source\repos\MultipleThreads\obj\Debug\net5.0\MultipleThreads.dll
+C:\Users\Настя\source\repos\MultipleThreads\obj\Debug\net5.0\ref\MultipleThreads.dll
+C:\Users\Настя\source\repos\MultipleThreads\obj\Debug\net5.0\MultipleThreads.pdb
+C:\Users\Настя\source\repos\MultipleThreads\obj\Debug\net5.0\MultipleThreads.genruntimeconfig.cache
