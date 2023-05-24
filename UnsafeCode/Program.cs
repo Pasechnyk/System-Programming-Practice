@@ -14,23 +14,23 @@ namespace UnsafeCode
                 int sizeM, sizeN;
 
                 // set arrays size
-                Console.WriteLine("Enter the size of Array M: ");
+                Console.WriteLine("Enter the size of Array A: ");
                 sizeM = int.Parse(Console.ReadLine());
 
-                Console.WriteLine("Enter the size of Array N: ");
+                Console.WriteLine("Enter the size of Array B: ");
                 sizeN = int.Parse(Console.ReadLine());
 
                 int* arrA = stackalloc int[sizeM];
                 int* arrB = stackalloc int[sizeN];
 
                 // populate arrays
-                Console.WriteLine("Enter the Elements of the Array M:");
+                Console.WriteLine("Enter the elements of Array A:");
                 for (int i = 0; i < sizeM; i++)
                 {
                     arrA[i] = int.Parse(Console.ReadLine());
                 }
 
-                Console.WriteLine("Enter the Elements of the Array M:");
+                Console.WriteLine("Enter the elements of Array B:");
                 for (int i = 0; i < sizeN; i++)
                 {
                     arrB[i] = int.Parse(Console.ReadLine());
@@ -48,7 +48,6 @@ namespace UnsafeCode
                             ++count;
                         }
                     }
-
                     for (int j = 0; count != 0 && j < sizeN; j++)
                     {
                         if (arrB[i] == arrB[j])
@@ -56,7 +55,6 @@ namespace UnsafeCode
                             --count;
                         }
                     }
-
                     if (count == 0)
                     {
                         ++sizeC;
@@ -65,7 +63,6 @@ namespace UnsafeCode
 
                 // array C output
                 int* arrC = stackalloc int[sizeC];
-
                 Console.WriteLine("Array C: " + *arrC);
             }
         }
