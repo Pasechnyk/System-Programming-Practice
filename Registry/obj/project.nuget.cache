@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fNV7MfDdlAEX1UR2yJ5pWKVgI/wDX2G41dkN/S1aXdr+Pe9seg+p+z6l+C0MzsOWhx6WGOIlX3v4/pR41es1tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Настя\\source\\repos\\RegistryControl\\RegistryControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Настя\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Настя\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Настя\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Настя\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
