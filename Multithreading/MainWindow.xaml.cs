@@ -93,7 +93,7 @@ namespace Multithreading
             MessageBox.Show("Complete!");
         }
 
-        // cancel copy
+        // cancel copy with cancellation token
         private void CancelCopyClickBtn(object sender, RoutedEventArgs e)
         {
             cancellation?.Cancel();
